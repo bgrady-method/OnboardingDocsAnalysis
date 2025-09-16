@@ -120,7 +120,7 @@ flowchart TD
   H --> I[Merge]
   I --> J[Deploy to Staging]
   J --> K[Shadow On-Call / Observability Intro]
-  K --> L[Small Production Change (Supervised)]
+  K --> L[Small Production Change - Supervised]
 ```
 
 
