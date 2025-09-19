@@ -85,7 +85,7 @@ Add new hire to these channels with context:
 - Add to relevant project channels based on their expected work
 
 #### Slack Introduction Message Template
-Post in `#engineering`:
+Post in `#general`:
 ```
 👋 Everyone, please welcome [Name] to the engineering team! 
 

@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(env)",
+      "WebSearch",
+      "Bash(claude mcp:*)",
+      "Bash(claude config --help)",
+      "Bash(claude config list)",
+      "Bash(where claude)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

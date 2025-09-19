@@ -7,8 +7,8 @@ This section covers SSL certificate setup for HTTPS development.
 1. [Download Store-Bought Certificate](./download-certificate.md)
 2. [Import Certificates](./import-certificates.md)
 3. [Add Certificates to IIS](./iis-certificates.md)
-4. [BrowserStack Setup](./browserstack.md)
-5. [Generate Custom Certificates](./custom-certificates.md)
+4. [OPTIONAL:BrowserStack Setup](./browserstack.md)
+5. [OPTIONAL:Generate Custom Certificates](./custom-certificates.md)
 
 SSL certificates are required for local HTTPS development and testing.
 

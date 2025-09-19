@@ -4,11 +4,19 @@ This section covers complete Internet Information Services (IIS) setup.
 
 ## Sections
 
-1. [Enable IIS Features](./enable-features.md)
-2. [Export Registry Key - Salt](./registry-salt.md)
-3. [Import IIS Sites & App Pools](./import-sites.md)
-4. [Legacy Sync Service API Configuration](./legacy-sync-service.md)
-5. [HTTPS Binding & SSL Certificates](./https-binding.md)
+1. [Enable IIS Features](../troubleshooting/appendix-iis.md)
+2. [Export Registry Key - Salt](./registry-salt.md) ⚠️ *Coming Soon*
+3. [Import IIS Sites & App Pools](./application-pools.md)
+4. [Legacy Sync Service API Configuration](./legacy-sync-service.md) ⚠️ *Coming Soon*
+5. [HTTPS Binding & SSL Certificates](./ssl-certificates.md)
+
+### Available Advanced Configuration
+
+- [Application Pools Configuration](./application-pools.md) - Comprehensive PowerShell automation
+- [Performance Tuning](./performance-tuning.md) - Enterprise performance optimization  
+- [Security Settings](./security-settings.md) - Advanced security configuration
+- [SSL Certificates](./ssl-certificates.md) - SSL/TLS certificate management
+- [Virtual Directories](./virtual-directories.md) - Directory configuration
 
 IIS configuration is critical for hosting Method web applications locally.
 
