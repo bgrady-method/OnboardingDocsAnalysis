@@ -403,11 +403,11 @@ The IIS Configuration directory needs immediate attention to fix broken navigati
 
 #### High Priority - URGENT FIXES NEEDED ❌
 1. **Fix IIS Configuration Broken Links:** Update README.md or create missing files:
-   - Create `enable-features.md` or redirect to `troubleshooting/appendix-iis.md`
-   - Create `registry-salt.md` for Section 11.2 content
-   - Create `import-sites.md` or redirect to `application-pools.md`
+   - `enable-features.md` redirect to `troubleshooting/appendix-iis.md`
+   - `registry-salt.md`  Section 11.2 content
+   - `import-sites.md` redirect to `application-pools.md`
    - Create `legacy-sync-service.md` for Section 11.4 content
-   - Create `https-binding.md` or redirect to `ssl-certificates.md`
+   - `https-binding.md` redirect to `ssl-certificates.md`
 2. **Verify SQL Content Integration:** Confirm QBO & QBDT backup procedures are properly integrated
 3. **Cross-Reference Validation:** Ensure all README files have working links
 

@@ -1,5 +1,23 @@
 # Onboarding Documentation
 
+## ⚠️ Under Construction - Completely New Content
+
+**This entire onboarding directory (15 files) is NEW CONTENT** not present in the original Developer Machine Setup 3.0 document. Specifically:
+
+### NEW FILES (Not in Original):
+- Company Context, Architecture Overview, Troubleshooting Skills
+- First Week Schedule, Learning Milestones, Buddy Assignment  
+- Onboarding Manager Guide, Checklist, Production Access SOP
+- All remaining 6 files in this directory
+
+### What's Enhanced:
+- Enterprise-level developer onboarding process
+- Structured 30/60/90 day learning milestones
+- Manager guides and buddy system
+- Comprehensive troubleshooting methodology
+
+**Original Document Coverage:** None - this represents a complete expansion beyond technical setup into human development processes.
+
 ## Overview
 
 This directory contains comprehensive onboarding documentation designed to develop independent problem solvers who understand Method's platform and can troubleshoot effectively. The onboarding process is structured around the primary goal of **creating a working local Method account**.
