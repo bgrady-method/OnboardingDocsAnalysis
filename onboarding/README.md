@@ -198,3 +198,4 @@ The goal isn't to never need help—it's to become the person others come to for
 3. Follow [First Week Schedule](./first-week-schedule.md) to get started
 4. Use [Troubleshooting Skills](./troubleshooting-skills.md) when you encounter issues
 5. Track your progress with [Learning Milestones](./learning-milestones.md)
+

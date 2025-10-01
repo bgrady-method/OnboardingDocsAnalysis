@@ -14,7 +14,8 @@ This section contains troubleshooting guides and reference information.
 8. [DNS Setup (Optional)](./dns-setup.md)
 9. [New Hard Drive Setup](./new-drive-setup.md)
 10. [Download and Restore Databases](./database-restore.md)
-11. [Appendix - IIS Features](./appendix-iis.md)
+11. [Analytics HTTP 500.19 Error](./analytics-500-19-error.md)
+12. [Appendix - IIS Features](./appendix-iis.md)
 
 Use these guides when encountering issues during setup or development.
 
@@ -44,6 +45,7 @@ Troubleshooting resources for common development environment issues:
 3. **Build failures** - Check VPN connection and NuGet feeds
 4. **Local URLs not working** - Verify host file entries
 5. **SSL certificate errors** - Check certificate installation and bindings
+6. **HTTP 500.19 Configuration Errors** - Missing or inaccessible web.config files
 
 **Log Locations:**
 - Application logs: `D:\\logs\\`
