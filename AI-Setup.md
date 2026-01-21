@@ -299,9 +299,16 @@ choco install visualstudio2022buildtools --package-parameters "--allWorkloads --
 # IIS URL Rewrite
 choco install urlrewrite -y
 
+# Ruby (required for SASS in MethodUI build)
+choco install ruby -y
+
 # .NET Hosting Bundles (CRITICAL for IIS)
 winget install Microsoft.DotNet.HostingBundle.8 --accept-package-agreements --accept-source-agreements
 winget install Microsoft.DotNet.HostingBundle.7 --accept-package-agreements --accept-source-agreements
+
+# Build tools (after Ruby is installed)
+npm install -g grunt-cli
+gem install sass
 ```
 
 ### Phase 2: Method-CLI Installation
