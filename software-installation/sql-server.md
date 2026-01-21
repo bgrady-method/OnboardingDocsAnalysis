@@ -2,7 +2,9 @@
 
 ## 4.3. SQL Server Installation
 
-1) Download **SQL Server 2019 (or latest) Developer Edition** from here and run it: ([https://go.microsoft.com/fwlink/?linkid=866662](https://go.microsoft.com/fwlink/?linkid=866662))
+1) Download **SQL Server 2022 (or latest) Developer Edition** from here and run it: ([https://go.microsoft.com/fwlink/?linkid=866662](https://go.microsoft.com/fwlink/?linkid=866662))
+
+> **Note:** SQL Server 2022 is recommended. It is fully backward compatible with SQL Server 2019 databases and backup files. The Method application databases restore and function correctly on SQL Server 2022.
 
 2) Choose "**Basic**" under *Installation Type*, and continue.
 
